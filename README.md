@@ -231,17 +231,18 @@ I want to **understand, build and apply what I learn.**
 </p>
 
 ---
+<h2 align="center">🤝 Connect With Me</h2>
 
-## 🤝 Connect With Me
-
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/shreyasingh7307588589-arch">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/shreya-singh-16322b3a0">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
