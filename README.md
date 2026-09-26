@@ -245,11 +245,10 @@ I want to **understand, build and apply what I learn.**
 
 </p> 
 
-
 <h2 align="center">🐍 My Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/shreyasingh7307588589-arch/shreyasingh7307588589-arch/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
