@@ -2,8 +2,9 @@
 
 ### 💻 B.Tech CSE Student | Web Development Learner | Future Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+building+things+with+code;Learning+Web+Development;Exploring+Java+%26+Python;Always+Learning+%26+Improving+🚀" alt="Typing Animation" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Shreya+Singh;BTech+CSE+Student;Frontend+Developer;Java+%7C+Python+%7C+JavaScript;Future+Software+Developer" alt="Typing Animation">
+</p>
 ---
 
 ## 🌟 About Me
